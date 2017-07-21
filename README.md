@@ -1,4 +1,3 @@
-# Depression
 ![Deepression](logo.png)
 
 Fighting depression using social media data and machine learning
