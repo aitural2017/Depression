@@ -21,12 +21,15 @@ View the demo video [here](https://youtu.be/fUGUEETyJuU)
 
 ### Articles
 
-[Tech firm and hackers join forces to combat online extremism](https://www.linkedin.com/pulse/tech-firm-hackers-join-forces-combat-online-extremism-rosie-earl?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_content%3BdN2zBG8043yQSjR8vAs%2Fqw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_content%3B0KhODRZTQv6%2BoqThgou9Fw%3D%3D) - Recognition PR
+[Tech firm and hackers join forces to combat online extremism](https://www.linkedin.com/pulse/tech-firm-hackers-join-forces-combat-online-extremism-rosie-earl?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_content%3BdN2zBG8043yQSjR8vAs%2Fqw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_content%3B0KhODRZTQv6%2BoqThgou9Fw%3D%3D) - Rosie Earl (Recognition PR)
 
 
 ## Team Members
 
 Marios Georgiou
+
 Cynthia Tin
+
 Dimitrios Spiliopoulos
+
 Brett Nuemayer
