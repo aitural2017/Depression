@@ -28,7 +28,7 @@ View the demo video [here](https://youtu.be/fUGUEETyJuU)
 
 Marios Georgiou
 
-Cynthia Tin
+Cynthia Tian
 
 Dimitrios Spiliopoulos
 
