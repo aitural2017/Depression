@@ -88,17 +88,19 @@ class listener(StreamListener):
 
 
 firebase_config = {
-  "apiKey": "AIzaSyDX2BZZNc3jz1IeiTHmEUEgwAZdlT5U-1E",
-  "authDomain": "twittai-3b1fe.firebaseapp.com",
-  "databaseURL": "https://twittai-3b1fe.firebaseio.com/",
-  "storageBucket": "gs://twittai-3b1fe.appspot.com"
+    "apiKey": "AIzaSyATvsTcT7jTOZijGWUSXFQNJ92nOocbFEM",
+    "authDomain": "deepression-38b69.firebaseapp.com",
+    "databaseURL": "https://deepression-38b69.firebaseio.com",
+    "projectId": "deepression-38b69",
+    "storageBucket": "deepression-38b69.appspot.com",
+    "messagingSenderId": "688957809731"
 }
 
 firebase = pyrebase.initialize_app(firebase_config)
 
 firebase_auth = firebase.auth()
 
-user = firebase_auth.sign_in_with_email_and_password("babalaba@gmail.com", "m4gnoliA")
+user = firebase_auth.sign_in_with_email_and_password("tcynth@gmail.com", "H@ckathon1")
 
 global db 
 db= firebase.database()
