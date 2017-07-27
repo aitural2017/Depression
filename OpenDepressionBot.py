@@ -100,7 +100,7 @@ firebase = pyrebase.initialize_app(firebase_config)
 
 firebase_auth = firebase.auth()
 
-user = firebase_auth.sign_in_with_email_and_password("tcynth@gmail.com", "H@ckathon1")
+user = firebase_auth.sign_in_with_email_and_password("youremail", "yourpassword")
 
 global db 
 db= firebase.database()
